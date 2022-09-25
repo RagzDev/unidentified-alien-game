@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c9f41ffefa4f6489a9afcf4055c11286
+  - enabled: 1
+    path: Assets/Scenes/HardLevelSelecter.unity
+    guid: 019f52662806f49b5af096c296aaf3bc
+  - enabled: 1
+    path: Assets/Scenes/HardMode/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HardMode/Level2.unity
+    guid: 77439e3f5880b4ae3a3c87d3e5fce421
+  - enabled: 1
+    path: Assets/Scenes/HardMode/Level3.unity
+    guid: d1fd65deb307b472394b5e7363e28cd2
+  - enabled: 1
+    path: Assets/Scenes/HardMode/Level4.unity
+    guid: 56c924c4e1e3249228c240420452be95
+  - enabled: 1
+    path: Assets/Scenes/HardMode/Level5.unity
+    guid: 42f660b36adc94e43986cafda41a42d1
+  - enabled: 1
+    path: Assets/Scenes/HardMode/Level6.unity
+    guid: cb959971e7b0145ee9468360c7568d77
+  - enabled: 1
+    path: Assets/Scenes/HardMode/Level7.unity
+    guid: b32cd7a425b0c4b9fbd50a011c8fee67
+  - enabled: 1
+    path: Assets/Scenes/HardMode/Level8.unity
+    guid: f3e4a3ec5d1e2470bb5fa060243a1837
+  - enabled: 1
+    path: Assets/Scenes/HardMode/Level9.unity
+    guid: c2f5fb00531fd412e83e50aba9ebeb8d
+  - enabled: 1
+    path: Assets/Scenes/TutorialLevel.unity
+    guid: 3ed091583df844ee087ff0222ae28298
+  - enabled: 1
+    path: Assets/Scenes/ModeSelect.unity
+    guid: e0c1e64065e984de993a98e7a34418ac
+  - enabled: 1
+    path: Assets/Scenes/EzyLevelSelecter.unity
+    guid: 70f699c04ed4a47caa3d8c2409800a44
+  - enabled: 1
+    path: Assets/Scenes/MedLevelSelecter.unity
+    guid: 66ca7b10c9f7b4324ac3d2683e9906f9
+  - enabled: 1
+    path: Assets/Scenes/EasyMode/Level1Easy.unity
+    guid: 1813ab9458bf2489ba6369364ae9df77
+  - enabled: 1
+    path: Assets/Scenes/EasyMode/Level2Easy.unity
+    guid: 2780f1f3f88ce48e18c6477b2ef3c5aa
+  - enabled: 1
+    path: Assets/Scenes/EasyMode/Level3Easy.unity
+    guid: 8a34776e598e84ce1b934547692ee92d
+  - enabled: 1
+    path: Assets/Scenes/EasyMode/Level5Easy.unity
+    guid: 28233b1e7277544b9b85a8f4210c9583
+  - enabled: 1
+    path: Assets/Scenes/EasyMode/Level4Easy.unity
+    guid: 9f04286e880d14ccb90e455c67a5f93b
+  - enabled: 1
+    path: Assets/Scenes/EasyMode/Level6Easy.unity
+    guid: c67323be866bf447dae5ca271f6d597a
+  - enabled: 1
+    path: Assets/Scenes/EasyMode/Level7Easy.unity
+    guid: 5e9ebf5c849364f5a842d2701a4138fd
+  - enabled: 1
+    path: Assets/Scenes/EasyMode/Level8Easy.unity
+    guid: 92703c532b3c64cfbb110cfacc1b0db3
+  - enabled: 1
+    path: Assets/Scenes/EasyMode/Level9Easy.unity
+    guid: b941065b2d01741768ac79c0fd99e232
+  - enabled: 1
+    path: Assets/Scenes/MedMode/Level1Med.unity
+    guid: 63978aac6f3364c1091cfdcf18666d94
+  - enabled: 1
+    path: Assets/Scenes/MedMode/Level2Med.unity
+    guid: 2da35a92fb22a491f95eadec367f042f
+  - enabled: 1
+    path: Assets/Scenes/MedMode/Level3Med.unity
+    guid: 499ec8fb78510434f94a454fa40974ba
+  - enabled: 1
+    path: Assets/Scenes/MedMode/Level4Med.unity
+    guid: 0fad273140e5746d9868a0ad37daf332
+  - enabled: 1
+    path: Assets/Scenes/MedMode/Level5Med.unity
+    guid: 548ed2d5d1305476ebc215a41502c395
+  - enabled: 1
+    path: Assets/Scenes/MedMode/Level6Med.unity
+    guid: 559c1a42b8a4246eeb3eb4e4f10d84ba
+  - enabled: 1
+    path: Assets/Scenes/MedMode/Level7Med.unity
+    guid: 68395e3c59fe443daa843426713cdce7
+  - enabled: 1
+    path: Assets/Scenes/MedMode/Level8Med.unity
+    guid: 2662f3ced7c3b432d9ad33626e2a7900
+  - enabled: 1
+    path: Assets/Scenes/MedMode/Level9Med.unity
+    guid: e6e1d70b5341d4e5e8171c124f39b165
+  m_configObjects: {}
